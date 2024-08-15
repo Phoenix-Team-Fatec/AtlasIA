@@ -1,1 +1,1 @@
-# AtlasIA
+# AtlasAI
